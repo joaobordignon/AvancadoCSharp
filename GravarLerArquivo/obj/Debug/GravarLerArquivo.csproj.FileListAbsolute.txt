@@ -1,0 +1,10 @@
+D:\DotNet\AvancadoCSharp\CursoAvancadoCSharp\GravarLerArquivo\bin\Debug\GravarLerArquivo.exe.config
+D:\DotNet\AvancadoCSharp\CursoAvancadoCSharp\GravarLerArquivo\bin\Debug\GravarLerArquivo.exe
+D:\DotNet\AvancadoCSharp\CursoAvancadoCSharp\GravarLerArquivo\bin\Debug\GravarLerArquivo.pdb
+D:\DotNet\AvancadoCSharp\CursoAvancadoCSharp\GravarLerArquivo\obj\Debug\GravarLerArquivo.csprojAssemblyReference.cache
+D:\DotNet\AvancadoCSharp\CursoAvancadoCSharp\GravarLerArquivo\obj\Debug\GravarLerArquivo.csproj.CoreCompileInputs.cache
+D:\DotNet\AvancadoCSharp\CursoAvancadoCSharp\GravarLerArquivo\obj\Debug\GravarLerArquivo.exe
+D:\DotNet\AvancadoCSharp\CursoAvancadoCSharp\GravarLerArquivo\obj\Debug\GravarLerArquivo.pdb
+D:\DotNet\AvancadoCSharp\CursoAvancadoCSharp\GravarLerArquivo\bin\Debug\Newtonsoft.Json.dll
+D:\DotNet\AvancadoCSharp\CursoAvancadoCSharp\GravarLerArquivo\bin\Debug\Newtonsoft.Json.xml
+D:\DotNet\AvancadoCSharp\CursoAvancadoCSharp\GravarLerArquivo\obj\Debug\GravarLerArquivo.csproj.CopyComplete

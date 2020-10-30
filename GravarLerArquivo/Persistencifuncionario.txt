@@ -1,0 +1,27 @@
+Cód:7898
+
+Nome: ze
+
+Salario: 1000.01
+
+Data de Admissao: 07-Jul-2020 12:00:00 AM
+
+
+Cód:9874
+
+Nome: ze
+
+Salario: 999.99
+
+Data de Admissao: 31-Dec-2019 12:00:00 AM
+
+
+Cód:7889
+
+Nome: jao
+
+Salario: 13.00
+
+Data de Admissao: 12-Dec-2020 12:00:00 AM
+
+

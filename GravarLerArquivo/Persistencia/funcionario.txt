@@ -1,0 +1,54 @@
+Cód:3214
+
+Nome: Jao
+
+Salario: 1000.00
+
+Data de Admissao: 06-Jun-2020 12:00:00 AM
+
+
+Cód:5858
+
+Nome: Jonas
+
+Salario: 3521.00
+
+Data de Admissao: 01-Jan-2020 12:00:00 AM
+
+
+Cód:1452
+
+Nome: Lauro
+
+Salario: 987.32
+
+Data de Admissao: 08-Sep-2020 12:00:00 AM
+
+
+Cód:2546
+
+Nome: Abelardo
+
+Salario: 9874.25
+
+Data de Admissao: 06-Jun-1988 12:00:00 AM
+
+
+Cód:1234
+
+Nome: Ze
+
+Salario: 1
+
+Data de Admissao: 01-Jan-2020 12:00:00 AM
+
+
+Cód:203
+
+Nome: Barbara
+
+Salario: 100000000000.00
+
+Data de Admissao: 15-Oct-2011 12:00:00 AM
+
+
